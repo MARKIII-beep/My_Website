@@ -96,6 +96,7 @@ html{
     
 }
 #services .box{
+    color: #080c3b;
     border:  2px solid #080c3b;
     padding: 54px;
     margin: -19px 13px;
@@ -147,6 +148,7 @@ html{
 }
 /* contact section  */
 #contact{
+    
     position: relative;
 }
 #contact::before{
@@ -160,6 +162,7 @@ html{
         opacity: 0.8;
 }
 #contact-box{
+   
     font-family: 'Lobster', cursive;
     display: flex;
     align-items: center;
@@ -167,12 +170,14 @@ html{
     padding-bottom: 34px;
 }
 #contact-box input, #contact-box textarea{
+    
     width: 100%;
     padding: 0.5rem;
     border-radius: 10px;
     font size: 2rem;
 }
 #contact-box form{
+    
     width: 40%;
 }
 #contact-box label{
@@ -186,12 +191,14 @@ footer{
 /* utility class */
 
 .h1{
+    color: #080c3b;
     font-family: 'Lobster', cursive;
     font-size: 4.8rem;
     padding: 12px;
 
 }
 .h2{
+    color: #080c3b;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -202,6 +209,7 @@ footer{
 
 }
 .h3{
+    color: #080c3b;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -212,6 +220,7 @@ footer{
 
 }
 .h4{
+    color: #080c3b;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -231,6 +240,43 @@ footer{
     font-size: 1.5rem;
     border-radius: 40px;
     cursor: pointer;
+    
+}
+.btn:hover{
+    
+    
+    color:rgb(255, 255, 255);
+    border: 2px solid  rgb(255, 255, 255);
+    background-color:rgb(8, 12, 59);
+    
+    
+    
+}
+.btn1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+              width: 180px;
+             
+    
+    padding: 6px 20px;
+    color: rgb(8, 12, 59);
+    border: 2px solid  rgb(8, 12, 59);
+    background-color: rgb(255, 255, 255);
+    margin: 17px;
+    font-size: 1.5rem;
+    border-radius: 40px;
+    cursor: pointer;
+    
+}
+.btn1:hover{
+    
+    
+    color:rgb(255, 255, 255);
+    border: 2px solid  rgb(255, 255, 255);
+    background-color:rgb(8, 12, 59);
+    
+    
     
 }
 .center{
