@@ -80,7 +80,7 @@ html{
     
 }
 #home h1{
-    color: rgb(8, 12, 59);
+    color: #080c3b;
     text-align: center;
     font-family: 'Lobster', cursive;
 }
@@ -96,7 +96,7 @@ html{
     
 }
 #services .box{
-    border:  2px solid brown;
+    border:  2px solid #080c3b;
     padding: 54px;
     margin: -19px 13px;
     border-radius: 30px;
@@ -111,6 +111,7 @@ html{
    margin: auto;
 }
 #services .box p{
+    color: #080c3b;
   
 }
 /* client section  */
