@@ -42,6 +42,7 @@ html{
 
 }
 #navbar ul li a{
+    font-family: 'Andika New Basic', sans-serif;
     color: white;
     display: block;
     padding: 3px 30px;
@@ -122,6 +123,7 @@ html{
    margin: auto;
 }
 #services .box p{
+    font-family: 'Andika New Basic', sans-serif;
     text-align: justify;
     color: #080c3b;
   
