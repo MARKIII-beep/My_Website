@@ -42,6 +42,7 @@ html{
 
 }
 #navbar ul li a{
+    font-weight: bold;
     font-family: 'Andika New Basic', sans-serif;
     color: white;
     display: block;
